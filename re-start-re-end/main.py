@@ -40,3 +40,12 @@ if __name__ == "__main__":
         print(r)
    else:
       print((-1,-1))
+
+
+'''
+
+Ref: 
+   - https://levelup.gitconnected.com/sort-elements-in-python-817a0c2b810b
+   - https://thispointer.com/python-how-to-use-if-else-elif-in-lambda-functions/
+
+'''
